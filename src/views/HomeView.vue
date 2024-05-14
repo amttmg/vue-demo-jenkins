@@ -3,6 +3,6 @@
 
 <template>
   <div class="about">
-    <h1>This is an Home page change1</h1>
+    <h1>This is an Home page Hello DevOps</h1>
   </div>
 </template>
